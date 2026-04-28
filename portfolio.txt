@@ -1,0 +1,3 @@
+Stock: MSFT
+Quantity: 300
+Total Value: $90000
